@@ -1,2 +1,9 @@
 # computer_vision_resources
-Contains list of Multiple View Geometry and CV resources 
+
+Books:
+
+
+Youtube lectures:
+
+
+Slides: Attached MVG_lecture_note.zip
